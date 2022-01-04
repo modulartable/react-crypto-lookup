@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/react-crypto-lookup/static/css/main.e0a66bf4.chunk.css",
-    "main.js": "/react-crypto-lookup/static/js/main.337e5793.chunk.js",
-    "main.js.map": "/react-crypto-lookup/static/js/main.337e5793.chunk.js.map",
-    "runtime-main.js": "/react-crypto-lookup/static/js/runtime-main.e326b967.js",
-    "runtime-main.js.map": "/react-crypto-lookup/static/js/runtime-main.e326b967.js.map",
-    "static/js/2.a2bad44b.chunk.js": "/react-crypto-lookup/static/js/2.a2bad44b.chunk.js",
-    "static/js/2.a2bad44b.chunk.js.map": "/react-crypto-lookup/static/js/2.a2bad44b.chunk.js.map",
-    "static/js/3.a511d9ad.chunk.js": "/react-crypto-lookup/static/js/3.a511d9ad.chunk.js",
-    "static/js/3.a511d9ad.chunk.js.map": "/react-crypto-lookup/static/js/3.a511d9ad.chunk.js.map",
+    "main.css": "/react-crypto-lookup/static/css/main.6e9685e9.chunk.css",
+    "main.js": "/react-crypto-lookup/static/js/main.41815aab.chunk.js",
+    "main.js.map": "/react-crypto-lookup/static/js/main.41815aab.chunk.js.map",
+    "runtime-main.js": "/react-crypto-lookup/static/js/runtime-main.8eb918d4.js",
+    "runtime-main.js.map": "/react-crypto-lookup/static/js/runtime-main.8eb918d4.js.map",
+    "static/js/2.307a32f6.chunk.js": "/react-crypto-lookup/static/js/2.307a32f6.chunk.js",
+    "static/js/2.307a32f6.chunk.js.map": "/react-crypto-lookup/static/js/2.307a32f6.chunk.js.map",
+    "static/js/3.4689b48d.chunk.js": "/react-crypto-lookup/static/js/3.4689b48d.chunk.js",
+    "static/js/3.4689b48d.chunk.js.map": "/react-crypto-lookup/static/js/3.4689b48d.chunk.js.map",
     "index.html": "/react-crypto-lookup/index.html",
-    "static/css/main.e0a66bf4.chunk.css.map": "/react-crypto-lookup/static/css/main.e0a66bf4.chunk.css.map",
-    "static/js/2.a2bad44b.chunk.js.LICENSE.txt": "/react-crypto-lookup/static/js/2.a2bad44b.chunk.js.LICENSE.txt"
+    "static/css/main.6e9685e9.chunk.css.map": "/react-crypto-lookup/static/css/main.6e9685e9.chunk.css.map",
+    "static/js/2.307a32f6.chunk.js.LICENSE.txt": "/react-crypto-lookup/static/js/2.307a32f6.chunk.js.LICENSE.txt",
+    "static/media/heart-broken-solid.7e3c0298.svg": "/react-crypto-lookup/static/media/heart-broken-solid.7e3c0298.svg",
+    "static/media/heart-regular.86c051b0.svg": "/react-crypto-lookup/static/media/heart-regular.86c051b0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e326b967.js",
-    "static/js/2.a2bad44b.chunk.js",
-    "static/css/main.e0a66bf4.chunk.css",
-    "static/js/main.337e5793.chunk.js"
+    "static/js/runtime-main.8eb918d4.js",
+    "static/js/2.307a32f6.chunk.js",
+    "static/css/main.6e9685e9.chunk.css",
+    "static/js/main.41815aab.chunk.js"
   ]
 }
